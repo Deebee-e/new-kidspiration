@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Hey everyone; Welcome to kidspiration!!
 
-## Getting Started
+KidSpiration is a project borne out of my love for kids and a desire to see children grow up to be motivated Adults filled with kindness. This was built as my final Portfolio project on my ALX Software engineering Journey.
+It is a nextJs project created with 'create-next App'.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+     Technologies used;
+  NextJs
+  Github(Version Control System
+  
+Various Dependencies and Libraries installed included (but inexhaustive);
+    NodeJs, flowbite,@fontsource/geist-mono",
+    @mdi/js
+    @mdi/react"
+    flowbite-react
+    Formik, react-dom,
+    yup amongst others.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Data-Base and Auth:
+KidSpiration is mainly a dynamic frontend app. I utilized a local JSON file as a lightweight database to store and manage user data. This approach allowed for rapid prototyping and simplified the development process by eliminating the need for a separate backend server or a more complex database system.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+For authentication, I implemented a basic local authentication mechanism. User credentials (username and password) are stored within the JSON file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project was deployed to Vercel.
 
-## Learn More
+To access the kidspiration web-page; click on this link. https://kidspiration-nine.vercel.app
 
-To learn more about Next.js, take a look at the following resources:
+Please note: 
+Vercel requires a direct access to the project repository before deloyment, however I created a parent folder before creating the project folder (kidspiration).
+To fix this, I created a new-kidspiration folder and imported the same codes. This can be seen on https://github.com/Deebee-e/new-kidspiration.git 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+I am open to collaborations and technical advice. 
+Thank you for reading this far friends..
