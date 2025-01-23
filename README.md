@@ -1,6 +1,6 @@
 Hey everyone; Welcome to kidspiration!!
 
-KidSpiration is a project borne out of my love for kids and a desire to see children grow up to be motivated Adults filled with kindness. This was built as my final Portfolio project on my ALX Software engineering Journey. It is my desire that as I improve on the quality and features in the future
+KidSpiration is a project borne out of my love for kids and a desire to see children grow up to be motivated Adults filled with kindness. This was built as my final Portfolio project on my ALX Software engineering Journey. It is my desire that as I improve on the quality and features in the future, parents; especially African parents would put in more efort into commendation than punishent as seen in African cultures.
 It is a nextJs project created with 'create-next App'.
 
 TECHNOLOGIES USED:
@@ -28,6 +28,4 @@ PS: I am still an amateur and I am open to collaboration and 'brain-storming ide
 
 To access the kidspiration web-page; click on this link. https://kidspiration-nine.vercel.app
 
-
-I am open to collaborations and technical advice. 
 Thank you for reading this far friends..
