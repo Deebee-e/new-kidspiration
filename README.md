@@ -28,4 +28,6 @@ PS: I am still an amateur and I am open to collaboration and 'brain-storming ide
 
 To access the kidspiration web-page; click on this link. https://kidspiration-nine.vercel.app
 
-Thank you for reading this far friends..
+Thank you for reading this far friends.. Please note: 
+Vercel requires a direct access to the project repository before deloyment, however I created a parent folder before creating the project folder (kidspiration).
+To fix this, I created a new-kidspiration folder and imported the same codes. This can be seen on https://github.com/Deebee-e/new-kidspiration.git 
